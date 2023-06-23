@@ -103,6 +103,7 @@ button:hover {
     transform: scale(1.5);
 }
 .media-icons i {
+    position:relative;
     transition: 0.3s;
     transition-property: transform;
 }
